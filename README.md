@@ -8,11 +8,11 @@ A comprehensive interactive business intelligence solution built with Power BI a
 
 ### Executive Overview
 
-![Executive Overview](Images/executive_overview.png)
+![Executive Overview](Images/executive_overview.png.png)
 
 ### Product Analysis
 
-![Product Analysis](Images/product_analysis.png)
+![Product Analysis](Images/product_analysis.png.png)
 
 ### Customer Analysis
 
