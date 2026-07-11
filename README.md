@@ -16,7 +16,7 @@ A comprehensive interactive business intelligence solution built with Power BI a
 
 ### Customer Analysis
 
-![Customer Analysis](Images/customer_analysis.png)
+![Customer Analysis](Images/customer_analysis.png.png) 
 
 ---
 
